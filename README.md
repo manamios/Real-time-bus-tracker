@@ -1,5 +1,5 @@
 # Real time bus tracker
-<img src= "" width="300" />
+<img src= "bus-map.jpg" width="300" />
 
 ## Description
 Showing bus stops between MIT and Harvard. The marker moves every 10 seconds. This project forcused on using async/await functions to fetch data from APIs, manipulating the DOM, and using recursive functions in order to update the location of multiple map markers every 10 seconds based on real-time coordinates. Used Mapbox and Boston MTA.
