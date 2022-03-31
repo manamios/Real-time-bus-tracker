@@ -9,6 +9,7 @@ Clone all files in this repo to your local drive. Open the index.html file in a 
 
 ## Roadmap of future improvements
 -add marker on every bus stops
+
 -adding styles on the maps and markers
 
 ## Licence
